@@ -1,21 +1,20 @@
-# 2023 Tour Map
-
-This repository hosts the interactive HTML map for the 2023 **Live and In Color Tour**.
-
-📍 The map visualizes:
-- Every stop from the 2023 tour
-- Venue locations, capacities, and actual performance
-- Color-coded markers based on sell-through percentage
-- Separate indicators for Spring and Fall legs of the tour
-
----
+# 2025 Tour Map
 
 ## 🔗 View the Map
 
 Click the link below to open the interactive map in your browser:
 
-👉 [View the 2023 Tour Map](*insert link here*)
+👉 [View the 2023 Tour Map](https://abucynski.github.io/2025-tour-map/2025_tour_map.html)
 
+---
+
+This repository hosts the interactive HTML map for the 2025 **Live and In Color Tour**.
+
+📍 The map visualizes:
+- Every stop on the 2025 tour
+- Venue locations and capacities
+- Sales performance as progress bars
+- Color-coded markers by venue size
 ---
 
 ## 📁 Files
