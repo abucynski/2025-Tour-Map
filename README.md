@@ -4,7 +4,7 @@
 
 Click the link below to open the interactive map in your browser:
 
-👉 [View the 2023 Tour Map](https://abucynski.github.io/2025-tour-map/2025_tour_map.html)
+👉 [View the 2025 Tour Map](https://abucynski.github.io/2025-tour-map/2025_tour_map.html)
 
 ---
 
@@ -19,7 +19,7 @@ This repository hosts the interactive HTML map for the 2025 **Live and In Color 
 
 ## 📁 Files
 
-- `2023_tour_map.html` — Fully interactive, browser-based tour map
+- `2025_tour_map.html` — Fully interactive, browser-based tour map
 - `README.md` — This file
 
 ---
