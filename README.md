@@ -4,7 +4,7 @@
 
 Click the link below to open the interactive map in your browser:
 
-👉 [View the 2025 Tour Map](https://abucynski.github.io/2025-tour-map/2025_tour_map_final.html)
+👉 [View the 2025 Tour Map](https://abucynski.github.io/2025-tour-map/2025_tour_map.html)
 
 ---
 
